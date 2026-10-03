@@ -1,0 +1,38 @@
+export const offers = [
+  {
+    id: 'seasonal-demo-offer',
+    title: 'Seasonal Agriculture Offer',
+    description: 'Demo offer — replace with verified campaign information.',
+    category: 'Seasonal (demo)',
+    validUntil: 'Demo date — replace with verified campaign dates.',
+    image: '/images/offers/placeholder.jpg',
+    isDemo: true,
+  },
+  {
+    id: 'farmer-outreach-demo',
+    title: 'Farmer Outreach Campaign',
+    description: 'Demo offer — replace with verified campaign information.',
+    category: 'Outreach (demo)',
+    validUntil: 'Demo date — replace with verified campaign dates.',
+    image: '/images/offers/placeholder.jpg',
+    isDemo: true,
+  },
+  {
+    id: 'field-event-demo',
+    title: 'Field Event Announcement',
+    description: 'Demo offer — replace with verified campaign information.',
+    category: 'Event (demo)',
+    validUntil: 'Demo date — replace with verified campaign dates.',
+    image: '/images/offers/placeholder.jpg',
+    isDemo: true,
+  },
+  {
+    id: 'product-information-demo',
+    title: 'Product Information Campaign',
+    description: 'Demo offer — replace with verified campaign information.',
+    category: 'Information (demo)',
+    validUntil: 'Demo date — replace with verified campaign dates.',
+    image: '/images/offers/placeholder.jpg',
+    isDemo: true,
+  },
+]
